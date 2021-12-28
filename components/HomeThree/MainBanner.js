@@ -50,7 +50,7 @@ class MainBanner extends Component {
 
                                 {/* Banner Shape Images */}
                                 <div className="banner-img">
-                                    <img className="animate__animated animate__fadeInDown animate__fast" src="/images/home-three/shape1.png" alt="Image" />
+                                     <img className="animate__animated animate__fadeInDown animate__fast" src="/images/home-three/shape1.png" alt="Image" />
                                     <img className="animate__animated animate__fadeInDown animate__fast" src="/images/home-three/shape2.png" alt="Image" />
                                 </div>
                             </div>

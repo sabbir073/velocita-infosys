@@ -35,7 +35,7 @@ export default class MyApp extends App {
             <>
                 <Head>
                     <meta name="viewport" content="width=device-width, initial-scale=1" />
-                    <title>Jumpx - React Next.js AI & IT Startup Template</title>
+                    <title>Velocita Infosys - Your IT Partner</title>
                 </Head>
 
                 <Component {...pageProps} />

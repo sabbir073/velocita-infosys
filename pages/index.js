@@ -19,12 +19,12 @@ class Index3 extends Component {
             <>
                 <Navbar />
                 <MainBanner />
-                <PartnerSlider />
                 <About />
                 <WhyChooseUs />
                 <Services />
                 <MakeYourBusiness />
                 <WhatWeOffer />
+                <PartnerSlider />
                 <CaseStudies />
                 <Testimonials />
                 <Faq />
