@@ -1349,8 +1349,8 @@ Arduix Nav Area Style
 Main Banner Area Style
 ======================================================*/
 .main-banner-area {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#000638), to(#58ad0a));
-  background-image: linear-gradient(#000638, #58ad0a);
+  /*background-image: -webkit-gradient(linear, left top, left bottom, from(#000638), to(#427e09));*/
+  background-image: linear-gradient(#000638,#050e58, #427e09);
   padding-top: 200px;
   padding-bottom: 300px;
   position: relative;
