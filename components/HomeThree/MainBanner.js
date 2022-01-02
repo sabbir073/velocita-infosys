@@ -44,14 +44,12 @@ class MainBanner extends Component {
 
                             <div className="col-lg-6">
                                 {/* Main Image */}
-                                <div className="banner-main-img banner-one-main-img">
-                                    <img src="/images/home-three/main-img3.png" alt="Image" />
-                                </div>
+                               
 
                                 {/* Banner Shape Images */}
                                 <div className="banner-img">
                                      <img className="animate__animated animate__fadeInDown animate__fast" src="/images/home-three/shape1.png" alt="Image" />
-                                    <img className="animate__animated animate__fadeInDown animate__fast" src="/images/home-three/shape2.png" alt="Image" />
+                                    
                                 </div>
                             </div>
                         </div>

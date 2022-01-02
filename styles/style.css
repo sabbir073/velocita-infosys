@@ -570,7 +570,7 @@ Default Btn Area Style
   position: relative;
   cursor: pointer;
   overflow: hidden;
-  background-color: #1dd3f8;
+  background-color: #58ad0a;
   display: inline-block;
 }
 
@@ -1620,6 +1620,18 @@ About Area Style
 ======================================================*/
 .about-img {
   text-align: center;
+}
+
+.abimg{
+  animation: rotation 30s infinite linear;
+}
+@keyframes abimg {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
 }
 
 .about-content {

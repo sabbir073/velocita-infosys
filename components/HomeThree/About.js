@@ -9,7 +9,7 @@ class About extends Component {
                     <div className="row align-items-center">
                         <div className="col-lg-6">
                             <div className="about-img">
-                                <img src="/images/about-img-three.png" alt="Image" />
+                                <img className="abimg" src="/images/about-image-new.png" alt="Image" />
                             </div>
                         </div>
 
