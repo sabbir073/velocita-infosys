@@ -6014,3 +6014,14 @@ Service Details Area Style
   margin-bottom: 15px;
 }
 /*# sourceMappingURL=style.css.map */
+
+a.navbar-brand img {
+  width: 210px !important;
+}
+
+.navbar-area nav .navbar-nav .nav-item:first-child, 
+.navbar-area nav .navbar-nav .nav-item:nth-child(5), 
+.navbar-area nav .navbar-nav .nav-item:nth-child(6) {
+  position: relative;
+  top: 2px;
+}
